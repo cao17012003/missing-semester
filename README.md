@@ -12,7 +12,7 @@ open an issue or submit a pull request.
 To build and view the site locally, run:
 
 ```bash
-bundle exec jekyll serve -w
+bundle exec jekyll serve -a
 ```
 
 If you'd prefer to develop the site in a Docker container (e.g., to avoid
